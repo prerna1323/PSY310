@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 1388, in runFile
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 1325, in sendToRunner
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 811, in fileSave
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 870, in fileSaveAs
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/projects/pavlovia.py”, line 1460, in getProject
+psychopy.exceptions.DependencyError: gitpython and a git installation required for getProject()
